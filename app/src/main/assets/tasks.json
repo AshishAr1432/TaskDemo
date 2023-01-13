@@ -1,0 +1,34 @@
+{
+	"tasks" : [
+		{
+			"title" : "Morning walk",
+			"description" : "go for morning walk",
+			"status" : "done",
+			"priority-color" : "#FF0000"
+		},
+		{
+			"title" : "Break Fast",
+			"description" : "eat healthy",
+			"status" : "done",
+			"priority-color" : "#FF0000"
+		},
+		{
+			"title" : "Buy Grocery",
+			"description" : "Buy eggs",
+			"status" : "pending",
+			"priority-color" : "#FFFF00"
+		},
+		{
+			"title" : "Play Games",
+			"description" : "",
+			"status" : "pending",
+			"priority-color" : "#0000FF"
+		},
+		{
+			"title" : "Study",
+			"description" : "study maths",
+			"status" : "pending",
+			"priority-color" : "#FF0000"
+		}
+	]
+}
